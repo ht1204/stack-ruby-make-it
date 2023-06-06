@@ -1,10 +1,10 @@
 # Una pila (stack) en Ruby
 
-Una pila es una estructura de datos que se accede en modo LIFO (último en entrar, primero en salir). 
+Una pila es una estructura de datos que se accede en modo LIFO (último en entrar, primero en salir).
 
 ## Ejemplos
 
-![Pila de libros](http://stacktutoring.com/wp-content/uploads/2010/12/books-pile.png)
+![Pila de libros](https://media.istockphoto.com/id/897745776/photo/a-stack-of-old-books-isolated.jpg?s=612x612&w=0&k=20&c=M2-pCBlisUx7HgMyYoSOJqbKOJ7WhkUpVvsKNlH0B64=)
 
 Imagina una pila de libros de la que solo puedes tomar el libro de la parte superior, y en la que solo puedes ubicar libros encima de los demás.
 
@@ -18,7 +18,7 @@ La **torre de hanoi** es un clásico juego que funciona con 3 pilas y discos de 
 
 ## Uso en la programación
 
-Las pilas se usan en programación para recordar tareas y deshacer cambios. 
+Las pilas se usan en programación para recordar tareas y deshacer cambios.
 
 El ejemplo más claro es el del botón **Deshacer** (Undo). Cada acción que realizas en tu computador se almacena en una pila. Cada vez que oprimes **Deshacer**, el sistema operativo toma la última acción y la deshace.
 
